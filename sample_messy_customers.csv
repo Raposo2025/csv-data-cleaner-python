@@ -1,0 +1,29 @@
+Customer Name,Email,Company,City,Order Date,Amount,Notes
+  john   SMITH ,John.Smith@Example.com,acme llc,new york,2026-03-04,"$1,250.00",first order
+john smith,john.smith@example.com,Acme LLC,New York,03/04/2026,1250,first order
+MARIA o'neil,maria@sample.test,blue river inc,austin,"April 5, 2026","€ 89,90",
+Li Wei,li.wei@sample.test,,seattle,2026/05/17,(45.00),refund
+,,,,,,
+ana-paula costa,ANA@SAMPLE.TEST,northwind co,miami,17-05-2026,"1.234,56",
+Bob Mcdonald,bob@sample.test,Sunrise Dental,boston,not a date,n/a,check
+Li Wei,li.wei@sample.test,,Seattle,2026-05-17,-45,refund
+OLIVIA GARCIA,olivia.garcia@sample.test,Blue River Inc,denver,2026-02-18,$941.74,
+EMMA PATEL,emma.patel@sample.test,,Denver,2026-02-18,,
+ava brown,ava.brown@sample.test,Blue River Inc,,2026-01-13,,
+EMMA KIM,emma.kim@sample.test,Blue River Inc,Denver,2026-02-19,$570.18,
+AVA GARCIA,ava.garcia@sample.test,Blue River Inc,,08/15/2026,$264.33,
+EMMA KIM,emma.kim@sample.test,Blue River Inc,,2026-06-17,$130.75,
+OLIVIA GARCIA,olivia.garcia@sample.test,Acme LLC,denver,06/15/2026,603,
+EMMA BROWN,emma.brown@sample.test,Acme LLC,denver,08/14/2026,$918.95,
+Liam Lee,liam.lee@sample.test,Blue River Inc,denver,2026-08-10,417,
+Liam Brown,liam.brown@sample.test,Acme LLC,,03/16/2026,,
+Liam Garcia,liam.garcia@sample.test,,Denver,04/10/2026,196,
+Olivia Brown,olivia.brown@sample.test,Acme LLC,portland,2026-06-12,,
+LIAM PATEL,liam.patel@sample.test,Acme LLC,denver,2026-08-16,$223.66,
+Olivia Kim,olivia.kim@sample.test,,denver,2026-03-18,638,
+NOAH LEE,noah.lee@sample.test,Blue River Inc,portland,02/17/2026,$501.71,
+noah brown,noah.brown@sample.test,Acme LLC,portland,2026-08-12,$983.77,
+ava brown,ava.brown@sample.test,Acme LLC,denver,06/12/2026,,
+ava lee,ava.lee@sample.test,,Denver,04/13/2026,38,
+Liam Lee,liam.lee@sample.test,Blue River Inc,portland,2026-08-15,$114.39,
+OLIVIA GARCIA,olivia.garcia@sample.test,Blue River Inc,denver,02/11/2026,$811.35,
